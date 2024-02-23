@@ -1,0 +1,4 @@
+Bags 111 NothingBag GrayWomenBag 180.0 25 15 20 plush
+Shoes 222 NikeSneakers WhiteMenSneakers 2000.0 30 41 sneakers 
+Clothes 333 PradaDress BlackWomenDress 35000.0 40 M wool  
+Bags 444 TommyHilfigerBag BlackWomenBag 2000.0 30 14 18 PU
